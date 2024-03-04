@@ -3,4 +3,4 @@ defaults:
   - _self_
 
 root: /root/workspace/code/mine/silk/data/coco/images/test2017
-annFile: null
+annFile: /root/workspace/code/mine/silk/data/coco/annotations/image_info_test2017.json
